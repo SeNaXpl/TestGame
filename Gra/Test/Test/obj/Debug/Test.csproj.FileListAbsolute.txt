@@ -1,0 +1,7 @@
+D:\Projects\Gra\Test\Test\bin\Debug\Test.exe.config
+D:\Projects\Gra\Test\Test\bin\Debug\Test.exe
+D:\Projects\Gra\Test\Test\bin\Debug\Test.pdb
+D:\Projects\Gra\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Projects\Gra\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Projects\Gra\Test\Test\obj\Debug\Test.exe
+D:\Projects\Gra\Test\Test\obj\Debug\Test.pdb
